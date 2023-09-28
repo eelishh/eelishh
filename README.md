@@ -1,3 +1,5 @@
+
+![357915a2297c77bf4630db5083e0793f](https://github.com/eelishh/eelishh/assets/113473886/0caef366-0ba1-4207-949c-dd0b2f832255)
 ### Hi there 👋, my name is Elisa
 
 #### MSc Data Sciece
