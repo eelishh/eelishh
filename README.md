@@ -8,3 +8,5 @@ I am a motivated and passionate student, holding a bachelor's degree in Statisti
 For a more comprehensive overview of my educational background and professional experiences, I invite you to explore my LinkedIn profile: 
 https://www.linkedin.com/in/elisa-pierini-711b02249/
 Feel free to connect and engage in further discussions about various fields!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eelishh&theme=dark&show_icons=true)
