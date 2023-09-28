@@ -8,4 +8,4 @@ For a more comprehensive overview of my educational background and professional 
 https://www.linkedin.com/in/elisa-pierini-711b02249/
 Feel free to connect and engage in further discussions about various fields!
 
-![Elisa's GitHub](https://github-readme-stats.vercel.app/api?username=eelishh&theme=dark&show_icons=true)
+![Elisa's GitHub](https://github-readme-stats.vercel.app/api?username=eelishh&theme=onedark&show_icons=true)
