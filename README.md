@@ -1,5 +1,5 @@
-
 ### Hi there 👋, my name is Elisa
+
 #### MSc Data Sciece
 I am a motivated and passionate student, holding a bachelor's degree in Statistics. Currently, I am actively working towards my master's degree in Data Science at the University of Rome "La Sapienza." My academic journey has been shaped by a fascination for network science, particularly focusing on graphs and bioinformatics.
 
