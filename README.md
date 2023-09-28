@@ -9,4 +9,4 @@ For a more comprehensive overview of my educational background and professional 
 https://www.linkedin.com/in/elisa-pierini-711b02249/
 Feel free to connect and engage in further discussions about various fields!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eelishh&theme=onedarkicons=true)
+ https://github-readme-stats.vercel.app/api?username=eelishh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
