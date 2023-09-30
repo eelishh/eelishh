@@ -14,10 +14,6 @@ Skills: R / Python / SQL
 
 Feel free to contact me! 
 
-### Main Projects
-
-
-
 ### Framework
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
