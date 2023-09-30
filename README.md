@@ -1,3 +1,4 @@
+![357915a2297c77bf4630db5083e0793f](https://github.com/eelishh/eelishh/assets/113473886/016fdd7f-1e12-463f-8424-7ccc9bc25dee)
 
 
 ### Hi there 👋, my name is Elisa
