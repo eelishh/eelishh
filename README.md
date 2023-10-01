@@ -7,7 +7,6 @@ MSc in Data Science. <br/>
 
 I am a motivated and passionate student, holding a bachelor's degree in Statistics. Currently, I am actively working towards my master's degree in Data Science at the University of Rome "La Sapienza." My academic journey has been shaped by a fascination for network science, particularly focusing on graphs and bioinformatics.
 
-Skills: R / Python / SQL 
 ### My Contacts
 ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "elisapierini9@gmail.com")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisa-pierini-711b02249/)
